@@ -1,0 +1,6 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+
+my $pth = "C:/Users/smr12/Documents/beg_perl/ch6";
+open FH, $pth or dir $!;
